@@ -1,0 +1,30 @@
+------------------InValid Requests for Testing -------------------
+
+1)
+
+URL: google.ca
+Host IP: 123.123.123.12
+User IP: 12.12.123.123
+User Location: Ottawa
+User Operating System: MacOS    
+User Device: MacBook
+
+2)
+
+URL: google.ca
+Host IP: 12.1.23.164
+User IP: 234.305.0.10
+User Location: Ottawa
+User Operating System: Windows
+User Device: Desktop
+
+3)
+
+URL: yahoo.ca
+Host IP: 10.0.24.120
+User IP:  234.305.0.10
+User Location: Toronto
+User Operating System: Windows
+User Device: Desktop
+
+

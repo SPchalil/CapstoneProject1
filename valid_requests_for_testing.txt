@@ -1,0 +1,31 @@
+----------------------Valid Requests for Testing --------------------------
+
+1)
+
+URL: www.allsafe.io/security/tunnel/POD:2208
+Host IP: 10.0.24.123
+User IP: 234.305.0.21
+User Location: Toronto
+User Operating System: Windows
+User Device: Desktop
+
+
+2)
+
+URL: www.allsafe.io/security/tunnel/POD:2208
+Host IP: 10.0.24.123
+User IP: 430.640.1.63
+User Location: Ottawa
+User Operating System: MacOSS
+User Device: MacBook
+
+3)
+
+URL: www.allsafe.io/security/tunnel/POD:2208
+Host IP: 10.0.24.123
+User IP: 430.640.1.63
+User Location: Toronto
+User Operating System: Windows
+User Device: Mobile
+
+
